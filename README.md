@@ -1,1 +1,23 @@
-# command-like-tools
+# Command Line Tools
+
+- cowsay
+- lolcat
+- cmatrix
+- boxes
+- figlet
+- toilet
+- nms | No More Secrets
+- neofetch
+- btop++
+- sl
+- aafire
+- aview
+- https://telehack.com/
+- rig
+- Cool-Retro-Term
+- https://github.com/GitSquared/edex-ui/releases
+- byobu hollywood
+- https://github.com/dustinkirkland/hollywood
+- https://pranx.com/hacker/
+- https://hackertyper.net/
+- https://hacker-simulator.com/
